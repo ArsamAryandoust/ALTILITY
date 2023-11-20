@@ -1,0 +1,9 @@
+.pypirc
+.pypirc_test
+setup.cfg
+
+data
+
+.ipynb_checkpoints/
+src/altility/datasets/__pycache__
+src/altility/__pycache__
